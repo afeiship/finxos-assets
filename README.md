@@ -2,7 +2,7 @@
 > finxos-assets.
 
 
-## cdn url:
+## cdn URLs
 ~~~
 https://tsscdn.finxos.com/tucloud/finxos-assets/antd/antd.min.js
 https://tsscdn.finxos.com/tucloud/finxos-assets/jquery/jquery.min.js
